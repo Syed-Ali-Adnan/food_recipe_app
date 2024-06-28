@@ -1,0 +1,14 @@
+.recipe_heading
+{
+    padding: 50px;
+}
+.recipe_card_warper
+{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+}
+.recipe_card{
+    width: 300px;
+    height: 300px;
+}
